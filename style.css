@@ -121,7 +121,7 @@ main {
 }
 
 .task .content .text:not(:read-only) {
-	color: blue;
+	color: rgb(15, 147, 223);;
 }
 
 .task .actions {
